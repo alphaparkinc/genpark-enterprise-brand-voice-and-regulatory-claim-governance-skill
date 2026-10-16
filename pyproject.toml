@@ -1,0 +1,7 @@
+[project]
+name = "genpark-enterprise-brand-voice-and-regulatory-claim-governance-skill"
+version = "1.0.0"
+description = "Enterprise terminology glossary enforcer, regulatory claim risk scanner, and brand voice compliance engine for generative AI workflows"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
